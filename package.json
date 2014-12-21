@@ -1,0 +1,18 @@
+{
+  "name": "levelmeup-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "level": "^0.18.0",
+    "level-sublevel": "^6.3.17",
+    "multilevel": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willhoag/levelmeup-solutions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willhoag/levelmeup-solutions/issues"
+  },
+  "homepage": "https://github.com/willhoag/levelmeup-solutions"
+}
